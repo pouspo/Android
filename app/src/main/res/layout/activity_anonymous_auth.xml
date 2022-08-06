@@ -15,7 +15,7 @@
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:layout_below="@id/icon"
-		android:text="@string/anonymous_signin"/>
+		android:text="@string/anonymous_signin" />
 
 	<TextView
 		android:id="@+id/profile"
