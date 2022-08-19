@@ -15,12 +15,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 	private static final Class[] CLASSES = new Class[]{
 			EmailPasswordActivity.class,
-			GoogleSignInActivity.class,
-			FacebookLoginActivity.class,
-			TwitterLoginActivity.class,
-			AnonymousAuthActivity.class,
-			PhoneAuthActivity.class,
-			ManageUserActivity.class
+			//NOactivity.class,
 	};
 
 	@Override

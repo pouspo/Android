@@ -35,8 +35,8 @@ import com.google.firebase.auth.GoogleAuthProvider;
 import java.io.InputStream;
 import java.net.URL;
 
-public class GoogleSignInActivity extends BaseActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener{
-	private static final String TAG = "GoogleSignInActivity";
+public class NOactivity extends BaseActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener{
+	private static final String TAG = "NOACTIVITY";
 	private static final int RC_SIGN_IN = 9001;
 	private FirebaseAuth mAuth;
 	private FirebaseAuth.AuthStateListener mAuthListener;
